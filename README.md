@@ -1,2 +1,2 @@
 # API-Testing
-API Testing by using PostMan and NewMan 
+API Testing using PostMan and NewMan 
